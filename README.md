@@ -1,1 +1,1 @@
-# projeto_relogio_digital
+Relógio digital / Digital clock
